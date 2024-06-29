@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-💻I am a student studying software engineering at nisantasi university on a full scholarship. I am currently working on C# and Java.<br>🤝I am looking to collaborate on an internship.<br>🌱I am currently learning Phyton.<br>
+💻I am a student studying software engineering at Nisantasi university on a full scholarship. I worked on Mobile Development, Data Mining and Web Development<br>🤝I am looking to collaborate on an internship.<br>🌱I am currently learning Phyton and Web Development.<br>
 
 
 ## 🌐 Socials:
