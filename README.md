@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-💻I am a student studying software engineering at Nisantasi university on a full scholarship. I plan to continue my career as a Data Engineer. And in addition I worked on Mobile Development, Data Mining and Web Development. <br>🤝I am looking to collaborate on an internship.<br>🌱I am currently learning Data engineering technologies such as SQL, Python etc. <br>
+💻I am a student studying software engineering at Nisantasi university on a full scholarship. I plan to continue my career as a Data Engineer. And in addition I worked on Mobile Development and Web Development. <br>🤝I am looking to collaborate on an internship.<br>🌱I am currently learning Data engineering technologies such as SQL, Python etc. <br>
 
 
 ## 🌐 Socials:
