@@ -19,10 +19,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=suedakkus&theme=jolly&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suedakkus&theme=jolly&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=suedakkus&limit=5&theme=monokai&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=suedakkus&icon=2&color=5)](https://visitcount.itsvg.in)
 
