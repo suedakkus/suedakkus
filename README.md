@@ -9,6 +9,7 @@
 
 # 💻 Tech Stack:
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+ [Python]
  <br>
 ![](https://github-readme-stats.vercel.app/api?username=suedakkus&theme=jolly&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=suedakkus&theme=jolly&hide_border=true)<br/>
